@@ -11,7 +11,13 @@ import { NavItemComponent } from './nav-item/nav-item.component';
   declarations: [
     AppComponent,
     NavMenuComponent,
-    NavItemComponent
+    NavItemComponent,
+    NavMenuComponent,
+    NavItemComponent,
+    NavMenuComponent,
+    NavItemComponent,
+    NavItemComponent,
+    NavMenuComponent
   ],
   imports: [
     BrowserModule,
