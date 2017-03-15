@@ -1,8 +1,11 @@
 
 seifalden-26b82.firebaseapp.com
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 917c879e6e2dad21de1998931b5800715e5db6b1
 #Submission date:
 14/03/2017
 
