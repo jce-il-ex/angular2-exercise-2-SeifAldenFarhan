@@ -17,7 +17,8 @@ import { NavItemComponent } from './nav-item/nav-item.component';
     NavMenuComponent,
     NavItemComponent,
     NavItemComponent,
-    NavMenuComponent
+    NavMenuComponent,
+    NavItemComponent
   ],
   imports: [
     BrowserModule,
