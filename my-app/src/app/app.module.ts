@@ -18,6 +18,8 @@ import { NavItemComponent } from './nav-item/nav-item.component';
     NavItemComponent,
     NavItemComponent,
     NavMenuComponent,
+    NavItemComponent,
+    NavMenuComponent,
     NavItemComponent
   ],
   imports: [
