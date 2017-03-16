@@ -8,6 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class NavMenuComponent implements OnInit {
 
   constructor() { }
+ arr = [{name:"home"},{name:"about"},{name:"signin"},{name:"signout"}];
 
   ngOnInit() {
   }
